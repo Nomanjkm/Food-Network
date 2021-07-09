@@ -1,0 +1,33 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+}
+.orange{
+    color: orange;
+}
+.half-width{
+    width: 45%;
+    padding: 5%;
+}
+.half-width img{
+    width: 450px;
+    height: 500px;
+ 
+}
+h1{
+    font-size: 50px;
+   
+}
+.top-banner{
+    display: flex;
+    margin-bottom: 80px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(199, 151, 20) , tomato);
+    color: white;
+    padding: 10px 35px;
+    font-weight: 700;
+    border-radius: 20px;
+
+}
