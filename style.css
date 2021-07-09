@@ -12,11 +12,9 @@ body{
 .half-width img{
     width: 450px;
     height: 500px;
- 
-}
+ }
 h1{
     font-size: 50px;
-   
 }
 .top-banner{
     display: flex;
@@ -29,5 +27,26 @@ h1{
     padding: 10px 35px;
     font-weight: 700;
     border-radius: 20px;
-
+}
+.same-divided{
+    width: 50%;
+}
+.same-divided img{
+    width: 40%;
+    padding-left: 40%;
+    padding-top: 10%;
+    padding-bottom: 35%;
+}
+section{
+    display: flex;
+}
+.some-gape-added{
+    padding: 5%;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+.all-added{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
