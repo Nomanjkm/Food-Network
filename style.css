@@ -50,3 +50,60 @@ section{
     background-repeat: no-repeat;
     background-size: 100%;
 }
+.recipies-added{
+    text-align: center;
+}
+.food-name-added{
+    text-align: center;
+}
+#choklet-food img{
+    width: 63%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10%;
+    border-radius: 10px;
+}
+#liquid-food img{
+    width: 70%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    border-radius: 10px;
+}
+#meat-food img{
+    width: 70%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    border-radius: 10px;
+}
+.flexible-container{
+    width: 90%;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding: 40px;
+    display: flex;
+    box-shadow: 10px  gray;
+    border-radius: 10px;
+}
+.all-food{
+    width: 300px;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 1px 7px 20px gray;
+}
+.live-happy{
+    text-align: center;
+    width: 100%;
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 20px;   
+    padding: 20px 30px 10px 10px;
+}
+.white{
+    color: silver;
+}
+.gray{
+    color: gray;
+}
